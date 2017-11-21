@@ -16,4 +16,4 @@ def display_board
   lineLine
   squareLine
 end
-displayBoard
+display_board
