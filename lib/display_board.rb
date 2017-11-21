@@ -16,3 +16,4 @@ def makeBoard
   lineLine
   squareLine
 end
+makeBoard
