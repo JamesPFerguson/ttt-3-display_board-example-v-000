@@ -5,13 +5,14 @@ def squareLine
   print "   "
   print "|"
   puts "   "
-
+end
 def lineLine
   puts "-----------"
-
+end
 def makeBoard
   squareLine
   lineLine
   squareLine
   lineLine
   squareLine
+end
