@@ -1,18 +1,17 @@
 # Define a method display_board that prints a 3x3 Tic Tac Toe Board
-def squareLine {
+def squareLine
   print "   "
   print "|"
   print "   "
   print "|"
   puts "   "
-}
-def lineLine {
+
+def lineLine
   puts "-----------"
-}
-def makeBoard {
-  squareLine()
-  lineLine()
-  squareLine()
-  lineLine()
-  squareLine()
-}
+
+def makeBoard
+  squareLine
+  lineLine
+  squareLine
+  lineLine
+  squareLine
