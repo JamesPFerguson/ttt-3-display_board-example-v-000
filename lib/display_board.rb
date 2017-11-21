@@ -10,10 +10,10 @@ def line_line
   puts "-----------"
 end
 def display_board
-  squareLine
-  lineLine
-  squareLine
-  lineLine
-  squareLine
+  square_line
+  line_line
+  square_line
+  line_line
+  square_line
 end
 display_board
