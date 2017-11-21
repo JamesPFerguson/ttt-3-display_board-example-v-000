@@ -9,11 +9,11 @@ end
 def lineLine
   puts "-----------"
 end
-def makeBoard
+def displayBoard
   squareLine
   lineLine
   squareLine
   lineLine
   squareLine
 end
-makeBoard
+displayBoard
